@@ -1,16 +1,39 @@
-## Hi there 👋
+👋🏽 Hey there, I’m Thomas Odongo
 
-<!--
-**Tkcodesworld/TKcodesworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏽‍💻 Full-Stack Web Developer | Front & Back-End  
+💡 Passionate about turning ideas into real-world solutions  
+🌍 Building user-focused apps that solve real problems  
+🚀 Dreaming in HTML, CSS, JavaScript & beyond  
+📍 African Leadership University | 🎓 Lifelong Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠 Tech Stack
+
+- 💻 Languages: JavaScript, Python, SQL  
+- 🌐 Front-End: HTML5, CSS3, React  
+- 🔧 Back-End: Node.js, Express  
+- 🗃 Databases: MongoDB, MySQL  
+- 🧰 Tools: Git, GitHub, VS Code, Terminal
+
+---
+
+ 🔭 Projects
+
+- 🚮 Waste Management App — Connecting garbage collection companies with users in Nairobi  
+- 📍 Infrastructure Tracker — A citizen-powered tool for reporting urban infrastructure issues  
+- 🌱 Always building, learning, and collaborating on meaningful projects  
+
+---
+
+🌐 Let’s Connect
+
+- 📸 Instagram: [@_official.t.k](https://instagram.com/_official.t.k)  
+- 💼 LinkedIn: [Thomas Odongo](https://www.linkedin.com/in/thomas-odongo)  
+- 📨 Email: [rudolfethomas@gmail.com](mailto:rudolfethomas@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I see code the way musicians see music — as rhythm, structure, and creative flow. 🎸💻  
