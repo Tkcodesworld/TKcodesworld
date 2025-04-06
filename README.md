@@ -29,7 +29,7 @@
 🌐 Let’s Connect
 
 - 📸 Instagram: [@_official.t.k](https://instagram.com/_official.t.k)  
-- 💼 LinkedIn: [Thomas Odongo](https://www.linkedin.com/in/thomas-odongo)  
+- 💼 LinkedIn: [Thomas Odongo](https://www.linkedin.com/feed/) 
 - 📨 Email: [rudolfethomas@gmail.com](mailto:rudolfethomas@gmail.com)
 
 ---
